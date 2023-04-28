@@ -9,6 +9,8 @@ public class homePage {
     // logo
     // search menu
 
+    // adding footer
+
 
 
 }
